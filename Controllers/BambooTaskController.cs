@@ -16,8 +16,6 @@ namespace BabooTask.Controllers
             cache = memoryCache;
         }      
        
-
-        // GET: api/<BambooTask>
       
         [HttpGet]
         public async Task<JsonResult> Get()
