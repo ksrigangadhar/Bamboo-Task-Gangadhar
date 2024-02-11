@@ -12,13 +12,17 @@ After Clone:
 4. Change the port number if required.
 
 Access the URLs:
-//to get the IDS
+
+//To get the IDS
+
 https://localhost:44396/api/BambooTask
 
-//to get the story based on ID
+//To get the story based on ID
+
 https://localhost:44396/api/BambooTask/21233041
 
-//Get the stories based on the given id in a single call.
+//Get the stories based on the given id in a single call
+
 https://localhost:44396/api/BambooTaskControllerSingelCall/39322388
 
 
